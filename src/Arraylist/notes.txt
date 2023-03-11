@@ -1,0 +1,30 @@
+Collections Framework;
+
+A collection of classes and interfaces which help us store and manage
+objects in the form of collections.
+for example
+ArrayList  and linkedList
+these classes make it easier to manage data as they have in built methods.
+
+Wrapper classes:
+we can use primitive data types as objects with help of wrapper classes.
+primitive data types are not supported by the classes in collections framework.
+
+Boxing:
+is the process of converting primitive data types to its corresponding wrapper type or object type.
+AutoBoxing:
+says just assign a wrapper type to a primitive type variable and the conversion will happen automatically
+
+ex:
+Integer i= new Integer (10)   => Boxing
+int one = i; =>unboxing
+
+AutoBoxing:
+Character ch='a';
+
+ArrayList:
+ArrayList is a part of collections framework. we can store single objects inside arrayList
+
+Dimond operator:
+Dimond operator also called angle brackets ""<>""
+They are used to specify the name of the class whose objects we will be storing inside the classes
